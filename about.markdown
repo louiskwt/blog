@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Welcome! I'm a software developer who likes to build useful things to solve interesting problems
+Hi, there. I'm a software engineer form Hong Kong.
+
+A blog for my musings
