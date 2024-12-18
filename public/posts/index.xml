@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Hacking to the Gate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Dec 2024 23:50:43 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 23:29:38 +0800</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Log File2</title>
+      <link>https://example.org/posts/log-file2/</link>
+      <pubDate>Wed, 18 Dec 2024 23:29:38 +0800</pubDate>
+      <guid>https://example.org/posts/log-file2/</guid>
+      <description>Here we go again&amp;hellip; Okay, I screwed up. Although I know I should lock in and build stuff, I failed miserably. About a few months ago, I even posted it on X about my plan before the end of the year. Of course, it has fallen apart.&#xA;I wouldn&amp;rsquo;t excuse myself, but I still want to write down what have happened lately so that I can reflect on it, learn my lessons, and hopefully move on.</description>
+    </item>
     <item>
       <title>Log File1</title>
       <link>https://example.org/posts/log-file1/</link>
