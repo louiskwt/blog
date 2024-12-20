@@ -1,5 +1,5 @@
 +++
-title = 'Log File0'
+title = 'A New Start?'
 date = 2024-12-01T14:43:36+08:00
 draft = false 
 +++
