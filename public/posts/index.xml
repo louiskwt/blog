@@ -6,24 +6,31 @@
     <description>Recent content in Posts on Hacking to the Gate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2024 23:29:38 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 10:56:43 +0800</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Log File2</title>
+      <title>Lost</title>
+      <link>https://example.org/posts/lost/</link>
+      <pubDate>Sun, 22 Dec 2024 10:56:43 +0800</pubDate>
+      <guid>https://example.org/posts/lost/</guid>
+      <description>Feeling Lost Lately, everything is not going so well. My wife and I had a series of troubles with the retarded landlord after renewing the lease. Meanwhile, I&amp;rsquo;m just working hard and yet everything is still up in the air. On top of that, I made some poor financial decisions (taking the insurance license exams and using more DiDi service than I want). Anyway, I don&amp;rsquo;t want to dwell on the negativites that life throws at us once in a while because I have no control over it.</description>
+    </item>
+    <item>
+      <title>Here we go again...</title>
       <link>https://example.org/posts/log-file2/</link>
       <pubDate>Wed, 18 Dec 2024 23:29:38 +0800</pubDate>
       <guid>https://example.org/posts/log-file2/</guid>
       <description>Here we go again&amp;hellip; Okay, I screwed up. Although I know I should lock in and build stuff, I failed miserably. About a few months ago, I even posted it on X about my plan before the end of the year. Of course, it has fallen apart.&#xA;I wouldn&amp;rsquo;t excuse myself, but I still want to write down what have happened lately so that I can reflect on it, learn my lessons, and hopefully move on.</description>
     </item>
     <item>
-      <title>Log File1</title>
+      <title>So Far So Good?</title>
       <link>https://example.org/posts/log-file1/</link>
       <pubDate>Tue, 03 Dec 2024 23:50:43 +0800</pubDate>
       <guid>https://example.org/posts/log-file1/</guid>
       <description>So Far So Good? Since I get back into learning mode, I have been doing pretty well. I even started doing Advent of Code, and I have fun doing it. However, it&amp;rsquo;s not all rainbows and butterflies even though I&amp;rsquo;ve now regained my ability to really focus for at least a few hours each day. So, what&amp;rsquo;s the problem?&#xA;The Problem! The problem is actually twofold. On the one hand, I still have trouble with doing the work.</description>
     </item>
     <item>
-      <title>Log File0</title>
+      <title>A New Start?</title>
       <link>https://example.org/posts/log-file0/</link>
       <pubDate>Sun, 01 Dec 2024 14:43:36 +0800</pubDate>
       <guid>https://example.org/posts/log-file0/</guid>
