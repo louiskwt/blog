@@ -6,6 +6,7 @@ theme = 'paper'
 [params]
   # color style
   color = 'linen'                           # linen, wheat, gray, light
+  description = 'A place where I document my learning and thoughts'
 
   # header social icons
   twitter = 'kawingt2'               
